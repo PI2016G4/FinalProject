@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS hostel;
+
+CREATE DATABASE hostel;
+
+USE hostel;
