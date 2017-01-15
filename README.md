@@ -1,7 +1,7 @@
 # Para visualizar o projecto é necessário:
-1. instalar booked
-2. instalar XAMPP - https://www.apachefriends.org/pt_br/index.html
+1. install booked
+2. install XAMPP - https://www.apachefriends.org/pt_br/index.html
 
 # Notas:
-- Na pasta Documentation pode ser encontrado o relatório, a apresentação e o documento das funcionalidade (incluido no relatório)
-- Para ver exactamente o que foi feito no projecto final é necessário colocar no htdocs do XAMPP a pasta booked disponibilizada neste repositório e proceder à instalação do booked referida no ficheiro develpmentguide do mesmo
+- In the folder 'Documentation' you can find the report (relatório), the presentation (apresentação) e o document of the desired features (funcionalidade - incluided in the report)
+- To see exactly what was made in the final project it's necessary to place in the folder htdocs of XAMPP the folder booked available in this repository and proceed to the install of booked refered in the file 'develpmentguide' of booked
