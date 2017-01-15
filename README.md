@@ -1,4 +1,4 @@
-# To see this project it is required:
+# To run this project it is required:
 1. installing booked
 2. installing XAMPP - https://www.apachefriends.org/pt_br/index.html
 
